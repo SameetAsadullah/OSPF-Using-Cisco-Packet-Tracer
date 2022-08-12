@@ -1,7 +1,7 @@
 <h1 align="center">OSPF Using Cisco Packet Tracer</h1>
 
 ### Description
-Implemented a demo topologies to describe `Open Shortest Path First (OSPF)` using `Cisco Packet Tracer`.
+Implemented a demo topology to describe `Open Shortest Path First (OSPF)` using `Cisco Packet Tracer`.
 
 ### Topology
 <div align="center">
